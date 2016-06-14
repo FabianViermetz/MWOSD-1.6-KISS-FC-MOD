@@ -14,3 +14,10 @@ The goal of this mod was to include KISS-FC support for the MWOSD. The original 
 * max ESC temperature (from FC via KISS 24A ESC telemetry)
 * PID - table
 
+
+![alt tag](https://github.com/FabianViermetz/MWOSD-1.6-KISS-FC-MOD/blob/master/Sceenshot.PNG)
+
+For more information about the KISS Serial protocol see:
+[this google table](https://docs.google.com/spreadsheets/d/1E61oVpcB7mRU_Q_FKvAfa0RsBtR2iNAhTD1W36r5Gcg/edit#gid=0). If you have questions or further information about the protocol, please leave me a message :)
+
+have fun
